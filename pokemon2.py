@@ -1,4 +1,8 @@
+# Script en python que consulta el api de pokemon
+# para listar los nombres de pokemon pero se le agrego 
+# interacción para que listaras más pokemons segun se vaya requiriendo.
 # Autor: Juan Ángel Garza Castillo
+# Fecha: 9/9/2022
 # Matrícula: 2007612
 
 import requests
